@@ -1,0 +1,9 @@
+- Link: https://t.me/cowtopiabot/app?startapp=1939627995
+- Features
+  - Keep online
+  - Auto upgrade factory + house
+  - Auto buy animal
+  - Auto complete missions
+- How to use?
+  - Copy query_id into query.txt.Each query_id in each line
+  - Same for proxy.txt. Using module to select proxy for query_id
